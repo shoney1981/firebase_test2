@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "716300943335",
+    "project_id": "flash-chat-honey",
+    "storage_bucket": "flash-chat-honey.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716300943335:android:cceba2dda84f908e660742",
+        "android_client_info": {
+          "package_name": "com.honey.firebase_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8AdN8HioMn2V4v90OxZdoebgTCUnwHZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
